@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cartões de Visita</string>
+    <string name="label_card">Cartões de Visita</string>
+    <string name="label_addnewcard">Adicionar novo cartão</string>
+    <string name="label_phone">(xx) xxxxx-xxxx</string>
+    <string name="label_name">Nome Completo</string>
+    <string name="label_description_new_card">Novo Cartão de Visitas</string>
+    <string name="label_cor">Cor</string>
+    <string name="label_confirm">Confirmar</string>
+    <string name="label_company">Empresa</string>
+    <string name="label_email">Email</string>
+    <string name="label_share_to">Compartilhar</string>
+    <string name="label_show_success">Registro inserido com sucesso.</string>
+</resources>
